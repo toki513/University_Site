@@ -47,5 +47,12 @@ nav img {
 
 .text-box{
     text-align: center;
-    padding: 20px 30px;
+   
+    padding-top: 180px;
+
+}
+
+.text-box h1,p{
+    font-style: italic;
+    margin-bottom: 10px;
 }
